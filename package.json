@@ -1,5 +1,7 @@
 {
-<<<<<<< HEAD
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "react": "^18.0.0",
@@ -7,16 +9,6 @@
     "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.0",
     "web-vitals": "^4.2.4"
-=======
-  "name": "my-portfolio",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "cra-template": "1.2.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
->>>>>>> f241049be8cb66bbadc634b6571408dea2c7275b
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,11 +16,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-<<<<<<< HEAD
-  "dependencies": {
-  "react-scroll": "^1.9.0"
-}
-=======
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -46,12 +33,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "overrides": {
-  "react": "^19.0.0",
-  "react-dom": "^19.0.0"
-}
-
-  
->>>>>>> f241049be8cb66bbadc634b6571408dea2c7275b
+  }
 }
