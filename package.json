@@ -12,5 +12,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-  }
+  },
+  "dependencies": {
+  "react-scroll": "^1.9.0"
+}
 }
